@@ -1,16 +1,40 @@
-## Hi there 👋
+🚀 Hi, I'm Yugandhar (Yugii)
 
-<!--
-**Yugandhar-Buttaru/Yugandhar-Buttaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Python & Django Developer | Problem Solver | Future Software Engineer
 
-Here are some ideas to get you started:
+I am a passionate fresher focused on building strong foundations in Python programming.
+I enjoy solving logical problems, creating mini-projects, and continuously improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+🐍 Python (Core + OOP)
+
+🌐 Django Framework
+
+📊 Basic Data Structures
+
+🗂 Git & GitHub
+
+🧮 Problem Solving & Pattern Programs
+
+🔥 What I’m Currently Working On
+
+Building Django-based web applications
+
+Understanding backend architecture
+
+Strengthening DSA concepts
+
+Writing clean and maintainable code
+
+🎯 My Goal
+
+To become a strong software developer by mastering fundamentals and building real-world Python applications.
+
+📈 What You Can Expect From Me
+
+✔ Clean & readable code
+✔ Strong logical thinking
+✔ Continuous learning mindset
+✔ Dedication and consistency
+
