@@ -47,6 +47,11 @@ Writing clean and maintainable code
 
 To become a strong software developer by mastering fundamentals and building real-world Python applications.
 
+## **🔬 Area of Interests**
+| Programming Fundamentals | Problem Solving | Web Development | Software Engineering |
+| --- | --- | --- | --- |
+| Learning core programming concepts and improving code structure | Practicing algorithms and logical thinking through coding challenges | Exploring HTML, CSS, and JavaScript to build interactive web applications | Understanding best practices for writing clean, maintainable, and scalable code |
+
 ## 📈 What You Can Expect From Me
 
 ✔ Clean & readable code
