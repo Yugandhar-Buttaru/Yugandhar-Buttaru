@@ -54,8 +54,8 @@ To become a strong software developer by mastering fundamentals and building rea
 
 ## 📈 What You Can Expect From Me
 
-✔ Clean & readable code
-✔ Strong logical thinking
-✔ Continuous learning mindset
-✔ Dedication and consistency
+- Clean & readable code
+- Strong logical thinking
+- Continuous learning mindset
+- Dedication and consistency
 
