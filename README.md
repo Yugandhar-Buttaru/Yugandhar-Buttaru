@@ -27,6 +27,22 @@ Strengthening DSA concepts
 
 Writing clean and maintainable code
 
+## **📊Activity Overview**
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yugandhar-Buttaru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com/?user=Yugandhar-Buttaru&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF6B35&currStreakLabel=FF0000"/>
+
+</td>
+</tr>
+</table>
+
 ## 🎯 My Goal
 
 To become a strong software developer by mastering fundamentals and building real-world Python applications.
