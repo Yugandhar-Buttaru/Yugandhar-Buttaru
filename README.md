@@ -1,7 +1,7 @@
 ##  Hi, I'm Yugandhar (Yugii)
-## 🚀 About Me 
-
 🎯 Aspiring Python & Django Developer | Problem Solver | Future Software Engineer
+
+## 🚀 About Me 
 
 I am a passionate fresher focused on building strong foundations in Python programming.
 I enjoy solving logical problems, creating mini-projects, and continuously improving my coding skills.
