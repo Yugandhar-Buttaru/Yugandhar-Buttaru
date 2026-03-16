@@ -17,7 +17,7 @@ I enjoy solving logical problems, creating mini-projects, and continuously impro
 
 🧮 Problem Solving & Pattern Programs
 
-🔥 What I’m Currently Working On
+## 🔥 What I’m Currently Working On
 
 Building Django-based web applications
 
