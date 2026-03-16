@@ -19,13 +19,10 @@ I enjoy solving logical problems, creating mini-projects, and continuously impro
 
 ## 🔥 What I’m Currently Working On
 
-Building Django-based web applications
-
-Understanding backend architecture
-
-Strengthening DSA concepts
-
-Writing clean and maintainable code
+- Building Django-based web applications
+- Understanding backend architecture
+- Strengthening DSA concepts
+- Writing clean and maintainable code
 
 ## **📊Activity Overview**
 <table>
