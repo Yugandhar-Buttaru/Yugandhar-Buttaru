@@ -7,15 +7,11 @@ I enjoy solving logical problems, creating mini-projects, and continuously impro
 
 ## 💻 Tech Stack
 
-🐍 Python (Core + OOP)
-
-🌐 Django Framework
-
-📊 Basic Data Structures
-
-🗂 Git & GitHub
-
-🧮 Problem Solving & Pattern Programs
+- 🐍 Python (Core + OOP)
+- 🌐 Django Framework
+- 📊 Basic Data Structures
+- 🗂 Git & GitHub
+- 🧮 Problem Solving & Pattern Programs
 
 ## 🔥 What I’m Currently Working On
 
